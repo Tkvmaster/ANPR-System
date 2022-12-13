@@ -13,7 +13,7 @@ These images are collected from:
  
 - <a href="https://www.kaggle.com/datasets/andrewmvd/car-plate-detection">Car License Plate Detection Dataset</a>
 - <a href="https://www.kaggle.com/datasets/andrewmvd/car-plate-detection">Automatic Number Plate Recognition Dataset</a>
-- <a href="https://github.com/Tkvmaster/Automated-Face-Mask-Detection-System/blob/main/image_scrapping.ipynb">Web Scraping Images from Google</a>
+- <a href="https://github.com/Tkvmaster/ANPR-System/blob/main/image_scrapping.ipynb">Web Scraping Images from Google</a>
 
 
 ## Reqirements
