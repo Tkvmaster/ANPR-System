@@ -4,6 +4,7 @@
 *.xml
 *.txt
 
+!requirements.txt
 
 # Ignoring test and output video
 *.mp4

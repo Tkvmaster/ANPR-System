@@ -1,0 +1,9 @@
+matplotlib==3.5.1
+norfair==2.1.1
+numpy==1.23.5
+paddlepaddle-gpu==2.4.0
+paddleocr>=2.0.1
+pandas==1.4.3
+torch==1.13.0
+opencv_python_headless==4.5.4.60
+numpy==1.22.4
