@@ -39,7 +39,8 @@ These images are collected from:
 
 ## :key: Prerequisites
 
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
+All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/Tkvmaster/ANPR-System/blob/main/requirements.txt)
+
 Make sure to install correct gpu versions of PaddlePaddle and torch.
 
 
