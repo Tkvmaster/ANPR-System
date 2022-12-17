@@ -1,6 +1,6 @@
 <h1 align="center">ANPR System</h1>
 
-<div align= "center"><img src="utility_files/anpr_logo.png" width="200" height="200"/>
+<div align= "center"><img src="utility_files/anpr_logo.jpg" width="200" height="200"/>
   <h4>Automatic number plate detection system using Deep Learning and Computer Vision concepts in order to detect license numbers of vehicles in real-time video streams.</h4>
 </div>
 
