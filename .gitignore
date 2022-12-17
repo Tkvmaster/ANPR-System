@@ -5,7 +5,7 @@
 *.txt
 
 !requirements.txt
-
+!anpr_logo.jpg
 # Ignoring test and output video
 *.mp4
 *.avi
